@@ -11,9 +11,9 @@
 I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I am a student of electronics and telecommunicaion engineering.
-- I enjoy exploring 
+- I enjoy exploring new avenues in science and technology.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I relax with dance.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-devraj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-rajk/)
 
 ---
